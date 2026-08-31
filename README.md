@@ -1,10 +1,10 @@
-# Lista de Exercícios II — HTML e CSS
+# Lista 02 — HTML e CSS
 
-Este repositório contém a resolução da **Lista de Exercícios II** da disciplina de **Usabilidade, Desenvolvimento Web, Mobile e Jogos (UDWMJ)**, ministrada pelo **Professor Daniel Henrique Matos de Paiva**.
+Este repositório contém a resolução da **Lista de Exercícios 02** da disciplina de **Usabilidade, Desenvolvimento Web, Mobile e Jogos (UDWMJ)**, ministrada pelo **Professor Daniel Henrique Matos de Paiva**.
 
 ## Aluno
-* **Nome**: Eduardo Alves e Santos
-* **RA**: 124114208
+* **Nome**: Rayssa Leal Nascimento
+* **RA**: 12419301
 * **Curso**: Engenharia de Software (UniBH Estoril — 6º Período)
 
 ---
